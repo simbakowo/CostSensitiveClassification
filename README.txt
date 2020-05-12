@@ -1,5 +1,5 @@
-12. Credit Card Fraud Detection Dataset
-
+Credit Card Fraud Detection Dataset
+NOTE: The dataset 'creditcard.csv' was too large to be committed, but it can be found on Kaggle
 THIS IS A COST-SENSITIVE CLASSIFICATION PROBLEM
 
 The dataset contains transactions made by credit cards, they are labeled as 
